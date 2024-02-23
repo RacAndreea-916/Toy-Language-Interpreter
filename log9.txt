@@ -1,0 +1,226 @@
+8
+EXECUTION STACK:
+(int v;(v=4;(while(v!=0)(print(v);v=v-1);;print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+int v
+(v=4;(while(v!=0)(print(v);v=v-1);;print(v)););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+int v
+(v=4;(while(v!=0)(print(v);v=v-1);;print(v)););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+(v=4;(while(v!=0)(print(v);v=v-1);;print(v)););
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+(v=4;(while(v!=0)(print(v);v=v-1);;print(v)););
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+v=4
+(while(v!=0)(print(v);v=v-1);;print(v));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+v=4
+(while(v!=0)(print(v);v=v-1);;print(v));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+(while(v!=0)(print(v);v=v-1);;print(v));
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+(while(v!=0)(print(v);v=v-1);;print(v));
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+(print(v);v=v-1);
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+(print(v);v=v-1);
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+print(v)
+v=v-1
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+print(v)
+v=v-1
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+v=v-1
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+4
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+v=v-1
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-4
+OUT:
+4
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-3
+OUT:
+4
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-3
+OUT:
+4
+FILE TABLE:
+HEAP:
+
+
+8
+EXECUTION STACK:
+(print(v);v=v-1);
+while(v!=0)(print(v);v=v-1);
+print(v)
+SYMBOL TABLE:
+v<-3
+OUT:
+4
+FILE TABLE:
+HEAP:
+
+

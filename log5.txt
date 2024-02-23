@@ -1,0 +1,4997 @@
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(new(v, 20);(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a)))););););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+new(v, 20)
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(Ref(Ref(int)) a;(new(a, v);(new(v, 30);print(rH(rH(a))));););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+Ref(Ref(int)) a
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(a, v);(new(v, 30);print(rH(rH(a)))););
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+new(a, v)
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-0 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+(new(v, 30);print(rH(rH(a))));
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+new(v, 30)
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+print(rH(rH(a)))
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+
+4
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-2 Ref(int)
+v<-3 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+2<-1 int
+3<-30
+
+

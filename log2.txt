@@ -1,0 +1,1390 @@
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+18
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+18
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+18
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+18
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+18
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+18
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int a;(int b;(a=2+3*5;(b=a+1;print(b)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int a
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(int b;(a=2+3*5;(b=a+1;print(b));););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+int b
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(a=2+3*5;(b=a+1;print(b)););
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+a=2+3*5
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+(b=a+1;print(b));
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+b=a+1
+print(b)
+SYMBOL TABLE:
+b<-0
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+print(b)
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+FILE TABLE:
+HEAP:
+
+
+1
+EXECUTION STACK:
+SYMBOL TABLE:
+b<-18
+a<-17
+OUT:
+18
+FILE TABLE:
+HEAP:
+
+

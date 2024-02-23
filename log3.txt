@@ -1,0 +1,2007 @@
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(bool a;(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+bool a
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(int v;(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v));););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+int v
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(a=true;(IF(a)THEN(v=2)ELSE(v=3);print(v)););
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+a=true
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-false
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+(IF(a)THEN(v=2)ELSE(v=3);print(v));
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+IF(a)THEN(v=2)ELSE(v=3)
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+v=2
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+print(v)
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+FILE TABLE:
+HEAP:
+
+
+2
+EXECUTION STACK:
+SYMBOL TABLE:
+a<-true
+v<-2
+OUT:
+2
+FILE TABLE:
+HEAP:
+
+

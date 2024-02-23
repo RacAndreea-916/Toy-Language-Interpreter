@@ -1,0 +1,203 @@
+7
+EXECUTION STACK:
+(Ref(int) v;(new(v, 20);(print(rH(v));(wh(v,30);print(rH(v)+5)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+7
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(print(rH(v));(wh(v,30);print(rH(v)+5));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+7
+EXECUTION STACK:
+Ref(int) v
+(new(v, 20);(print(rH(v));(wh(v,30);print(rH(v)+5));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+7
+EXECUTION STACK:
+(new(v, 20);(print(rH(v));(wh(v,30);print(rH(v)+5));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+7
+EXECUTION STACK:
+(new(v, 20);(print(rH(v));(wh(v,30);print(rH(v)+5));););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+7
+EXECUTION STACK:
+new(v, 20)
+(print(rH(v));(wh(v,30);print(rH(v)+5)););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+7
+EXECUTION STACK:
+new(v, 20)
+(print(rH(v));(wh(v,30);print(rH(v)+5)););
+SYMBOL TABLE:
+v<-0 int
+OUT:
+FILE TABLE:
+HEAP:
+
+
+7
+EXECUTION STACK:
+(print(rH(v));(wh(v,30);print(rH(v)+5)););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+(print(rH(v));(wh(v,30);print(rH(v)+5)););
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+print(rH(v))
+(wh(v,30);print(rH(v)+5));
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+print(rH(v))
+(wh(v,30);print(rH(v)+5));
+SYMBOL TABLE:
+v<-1 int
+OUT:
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+(wh(v,30);print(rH(v)+5));
+SYMBOL TABLE:
+v<-1 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+(wh(v,30);print(rH(v)+5));
+SYMBOL TABLE:
+v<-1 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+wh(v,30)
+print(rH(v)+5)
+SYMBOL TABLE:
+v<-1 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+wh(v,30)
+print(rH(v)+5)
+SYMBOL TABLE:
+v<-1 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-20
+
+
+7
+EXECUTION STACK:
+print(rH(v)+5)
+SYMBOL TABLE:
+v<-1 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-30
+
+
+7
+EXECUTION STACK:
+print(rH(v)+5)
+SYMBOL TABLE:
+v<-1 int
+OUT:
+20
+FILE TABLE:
+HEAP:
+1<-30
+
+
+7
+EXECUTION STACK:
+SYMBOL TABLE:
+v<-1 int
+OUT:
+20
+35
+FILE TABLE:
+HEAP:
+1<-30
+
+

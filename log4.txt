@@ -1,0 +1,7743 @@
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+0
+0
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@2a85c7e3
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@272e9550
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@2cc547b8
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@36a9ba0d
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@79544702
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@32fe1bc
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@3e1c7f96
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@5ce95c3a
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(string varf;(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+string varf
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(varf=test.in;(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+varf=test.in
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(openRead(varf)
+;(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+openRead(varf)
+
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(int varc;(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+);););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+int varc
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);(read(varc);;(print(varc);close(varf)
+););););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-0
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);(read(varc);;(print(varc);close(varf)
+);););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(read(varc);;(print(varc);close(varf)
+););
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+read(varc);
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-50
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+(print(varc);close(varf)
+);
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+print(varc)
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+close(varf)
+
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+test.in<-java.io.BufferedReader@3ae57725
+HEAP:
+
+
+3
+EXECUTION STACK:
+SYMBOL TABLE:
+varc<-15
+varf<-test.in
+OUT:
+50
+15
+FILE TABLE:
+HEAP:
+
+

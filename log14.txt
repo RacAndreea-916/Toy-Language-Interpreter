@@ -1,0 +1,4353 @@
+12
+EXECUTION STACK:
+((int x;(int y;(int z;int w);););;(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int x;(int y;(int z;int w);););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int x;(int y;(int z;int w);););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int x
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int x
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int y
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int y
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int z
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int z
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int v
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+int v
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=0
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=0
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+repeat{(fork((print(v);v=v-1););v=v+1);}until v==3
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+repeat{(fork((print(v);v=v-1););v=v+1);}until v==3
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+((fork((print(v);v=v-1););v=v+1);;while(!v==3)(fork((print(v);v=v-1););v=v+1););
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+((fork((print(v);v=v-1););v=v+1);;while(!v==3)(fork((print(v);v=v-1););v=v+1););
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<--1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(x=1;(y=2;(w=4;z=3);););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(x=1;(y=2;(w=4;z=3);););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+x=1
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+x=1
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+y=2
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+y=2
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+w=4
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+w=4
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+30
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((int x;(int y;(int z;int w);););;(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int x;(int y;(int z;int w);););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int x;(int y;(int z;int w);););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int x
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int x
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int y
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int y
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int z
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int z
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int v
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int v
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=0
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=0
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+repeat{(fork((print(v);v=v-1););v=v+1);}until v==3
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+repeat{(fork((print(v);v=v-1););v=v+1);}until v==3
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((fork((print(v);v=v-1););v=v+1);;while(!v==3)(fork((print(v);v=v-1););v=v+1););
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((fork((print(v);v=v-1););v=v+1);;while(!v==3)(fork((print(v);v=v-1););v=v+1););
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+11
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+11
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+11
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+11
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+11
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+11
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+11
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<--1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(x=1;(y=2;(w=4;z=3);););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(x=1;(y=2;(w=4;z=3);););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+x=1
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+x=1
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+y=2
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+y=2
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+w=4
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+w=4
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+30
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((int x;(int y;(int z;int w);););;(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int x;(int y;(int z;int w);););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int x;(int y;(int z;int w);););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int x
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int x
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int y;(int z;int w););
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int y
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int y
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int z;int w);
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int z
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int z
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int w
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(int v;(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int v
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+int v
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(v=0;(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10));););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=0
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=0
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(repeat{(fork((print(v);v=v-1););v=v+1);}until v==3;((x=1;(y=2;(w=4;z=3);););;print(v*10)););
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+repeat{(fork((print(v);v=v-1););v=v+1);}until v==3
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+repeat{(fork((print(v);v=v-1););v=v+1);}until v==3
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((fork((print(v);v=v-1););v=v+1);;while(!v==3)(fork((print(v);v=v-1););v=v+1););
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((fork((print(v);v=v-1););v=v+1);;while(!v==3)(fork((print(v);v=v-1););v=v+1););
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+12
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<--1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(fork((print(v);v=v-1););v=v+1);
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+13
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-0
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+fork((print(v);v=v-1);)
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+v=v+1
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+(print(v);v=v-1);
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+while(!v==3)(fork((print(v);v=v-1););v=v+1);
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+print(v)
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+((x=1;(y=2;(w=4;z=3);););;print(v*10));
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+v=v-1
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-2
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(x=1;(y=2;(w=4;z=3);););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+14
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-1
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(x=1;(y=2;(w=4;z=3);););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+x=1
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+x=1
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-0
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(y=2;(w=4;z=3););
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+y=2
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+y=2
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-0
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+(w=4;z=3);
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+w=4
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+w=4
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-0
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+z=3
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-0
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+10
+EXECUTION STACK:
+SYMBOL TABLE:
+x<-1
+w<-4
+v<-3
+z<-3
+y<-2
+OUT:
+0
+1
+2
+30
+FILE TABLE:
+HEAP:
+
+

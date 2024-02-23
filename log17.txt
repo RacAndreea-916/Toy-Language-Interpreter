@@ -1,0 +1,859 @@
+15
+EXECUTION STACK:
+(int v;(while(v<3)(fork((print(v);v=v+1););v=v+1);;(sleep(5);print(v*10));););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+int v
+(while(v<3)(fork((print(v);v=v+1););v=v+1);;(sleep(5);print(v*10)););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+int v
+(while(v<3)(fork((print(v);v=v+1););v=v+1);;(sleep(5);print(v*10)););
+SYMBOL TABLE:
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(while(v<3)(fork((print(v);v=v+1););v=v+1);;(sleep(5);print(v*10)););
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(while(v<3)(fork((print(v);v=v+1););v=v+1);;(sleep(5);print(v*10)););
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(fork((print(v);v=v+1););v=v+1);
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(fork((print(v);v=v+1););v=v+1);
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+fork((print(v);v=v+1);)
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+fork((print(v);v=v+1);)
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+16
+EXECUTION STACK:
+(print(v);v=v+1);
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+16
+EXECUTION STACK:
+(print(v);v=v+1);
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+FILE TABLE:
+HEAP:
+
+
+16
+EXECUTION STACK:
+print(v)
+v=v+1
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+FILE TABLE:
+HEAP:
+
+
+16
+EXECUTION STACK:
+print(v)
+v=v+1
+SYMBOL TABLE:
+v<-0
+OUT:
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(fork((print(v);v=v+1););v=v+1);
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+16
+EXECUTION STACK:
+v=v+1
+SYMBOL TABLE:
+v<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(fork((print(v);v=v+1););v=v+1);
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+16
+EXECUTION STACK:
+v=v+1
+SYMBOL TABLE:
+v<-0
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+fork((print(v);v=v+1);)
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+16
+EXECUTION STACK:
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+fork((print(v);v=v+1);)
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+17
+EXECUTION STACK:
+(print(v);v=v+1);
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+17
+EXECUTION STACK:
+(print(v);v=v+1);
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+17
+EXECUTION STACK:
+print(v)
+v=v+1
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+17
+EXECUTION STACK:
+print(v)
+v=v+1
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(fork((print(v);v=v+1););v=v+1);
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+17
+EXECUTION STACK:
+v=v+1
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(fork((print(v);v=v+1););v=v+1);
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+17
+EXECUTION STACK:
+v=v+1
+SYMBOL TABLE:
+v<-1
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+fork((print(v);v=v+1);)
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+17
+EXECUTION STACK:
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+fork((print(v);v=v+1);)
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+18
+EXECUTION STACK:
+(print(v);v=v+1);
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+v=v+1
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+18
+EXECUTION STACK:
+(print(v);v=v+1);
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+18
+EXECUTION STACK:
+print(v)
+v=v+1
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+while(v<3)(fork((print(v);v=v+1););v=v+1);
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+18
+EXECUTION STACK:
+print(v)
+v=v+1
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+18
+EXECUTION STACK:
+v=v+1
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+(sleep(5);print(v*10));
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+18
+EXECUTION STACK:
+v=v+1
+SYMBOL TABLE:
+v<-2
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(5)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+18
+EXECUTION STACK:
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(5)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(4)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(4)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(3)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(3)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(2)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(2)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(1)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(1)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(0)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+sleep(0)
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+print(v*10)
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+FILE TABLE:
+HEAP:
+
+
+15
+EXECUTION STACK:
+SYMBOL TABLE:
+v<-3
+OUT:
+0
+1
+2
+30
+FILE TABLE:
+HEAP:
+
+
