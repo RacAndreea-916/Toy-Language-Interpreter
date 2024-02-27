@@ -1,5 +1,7 @@
 # ToyLanguageInterpreter
 
+ToyLanguageInterpreter is a Java application that allows users to debug code, evaluate expressions, and work with multiple data types. It supports dynamic memory allocation, includes a graphical debugger, and is designed for experimenting with various programming features.
+
  ## Key Features
 
 - **Graphical Debugger:** Step through code and inspect variables using a user-friendly graphical interface.
