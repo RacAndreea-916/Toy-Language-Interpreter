@@ -15,5 +15,5 @@
 
 ## Getting Started
 
-To use the current version of the interpreter, simply compile and run the Java code. Experiment with basic code snippets provided in the project that demonstrate the existing features. Keep in mind that this project is in its early stages, and future updates will bring more advanced functionality.
+To use the current version of the interpreter, simply compile and run the Java code. Experiment with basic code snippets provided in the project that demonstrate the existing features.
 
